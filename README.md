@@ -8,6 +8,7 @@ Drive link for the output video:https://drive.google.com/file/d/18v1ShCrnP4nnR7b
 Prerequisites:
 
 ● Dlib (preferably version - 19.6)
+
 ● Opencv
 
 ● Numpy
@@ -16,6 +17,7 @@ Prerequisites:
 
 
 Clone the folder and and run the following command:
+
 python calculate_speed.py
 
 I Have referred the following github repos:
