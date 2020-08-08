@@ -16,7 +16,7 @@ Prerequisites:
 ● python
 
 
-# Clone the folder and and run the following command:
+Clone the folder and and run the following command:
 
                       python calculate_speed.py
 
